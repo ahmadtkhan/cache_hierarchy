@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:55
+/home/ahmad-khan/cache_hierarchy/cache_hierarchy.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1747964468,verilog,,,,blk_mem_gen_0,,uvm,,,,,,
+/home/ahmad-khan/cache_hierarchy/cache_hierarchy.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,uvm,,,,,,
+/home/ahmad-khan/cache_hierarchy/cache_hierarchy.srcs/sim_1/new/cache_testbench.sv,1748815998,systemVerilog,,,,cache_testbench,,uvm,,,,,,
+/home/ahmad-khan/cache_hierarchy/cache_hierarchy.srcs/sources_1/new/CPU.sv,1748825629,systemVerilog,/home/ahmad-khan/cache_hierarchy/cache_hierarchy.srcs/sim_1/new/cache_testbench.sv;/home/ahmad-khan/cache_hierarchy/cache_hierarchy.srcs/sources_1/new/L1_cache_controller.sv;/home/ahmad-khan/cache_hierarchy/cache_hierarchy.srcs/sources_1/new/L2_cache_controller.sv;/home/ahmad-khan/cache_hierarchy/cache_hierarchy.srcs/sources_1/new/demux.sv,/home/ahmad-khan/cache_hierarchy/cache_hierarchy.srcs/sources_1/new/L1_cache_controller.sv,,$unit_CPU_sv_3376794289;CPU,,uvm,,,,,,
+/home/ahmad-khan/cache_hierarchy/cache_hierarchy.srcs/sources_1/new/L1_cache_controller.sv,1748825542,systemVerilog,/home/ahmad-khan/cache_hierarchy/cache_hierarchy.srcs/sim_1/new/cache_testbench.sv;/home/ahmad-khan/cache_hierarchy/cache_hierarchy.srcs/sources_1/new/L2_cache_controller.sv,/home/ahmad-khan/cache_hierarchy/cache_hierarchy.srcs/sources_1/new/L2_cache_controller.sv,,L1_cache_controller,,uvm,,,,,,
+/home/ahmad-khan/cache_hierarchy/cache_hierarchy.srcs/sources_1/new/L2_cache_controller.sv,1748810416,systemVerilog,,/home/ahmad-khan/cache_hierarchy/cache_hierarchy.srcs/sources_1/new/demux.sv,,L2_cache_controller,,uvm,,,,,,
+/home/ahmad-khan/cache_hierarchy/cache_hierarchy.srcs/sources_1/new/demux.sv,1748809786,systemVerilog,,/home/ahmad-khan/cache_hierarchy/cache_hierarchy.srcs/sim_1/new/cache_testbench.sv,,demux,,uvm,,,,,,

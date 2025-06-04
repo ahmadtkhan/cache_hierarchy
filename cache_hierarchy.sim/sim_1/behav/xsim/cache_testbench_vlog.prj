@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../cache_hierarchy.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" \
+
+sv xil_defaultlib  \
+"../../../../cache_hierarchy.srcs/sources_1/new/CPU.sv" \
+"../../../../cache_hierarchy.srcs/sources_1/new/L1_cache_controller.sv" \
+"../../../../cache_hierarchy.srcs/sources_1/new/L2_cache_controller.sv" \
+"../../../../cache_hierarchy.srcs/sources_1/new/demux.sv" \
+"../../../../cache_hierarchy.srcs/sim_1/new/cache_testbench.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
